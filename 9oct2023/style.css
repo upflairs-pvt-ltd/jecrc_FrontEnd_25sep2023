@@ -1,0 +1,23 @@
+img:hover {
+    
+ transform: translate(700px);
+    
+}
+img {
+    height: 90px;
+    width: 90px;
+    margin-top: 60px;
+    
+    transition: width 2s, height 2s, transform 10s;
+    border-radius: 50%;
+}
+
+/* input{
+    width: 40px;
+   
+}
+input:hover {
+    width: 200px;
+    height: 200px;
+    transform: rotate();
+} */
