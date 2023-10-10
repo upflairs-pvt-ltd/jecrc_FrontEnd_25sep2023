@@ -1,0 +1,36 @@
+* {
+    margin:0px;
+}
+body {
+    background: url("wp1892091-kimi-no-na-wa-wallpapers.jpg");
+}
+li{
+    display: inline;
+    margin: 15px
+}
+ul {
+    margin-left: 400px;
+}
+nav {
+    background-color: rgb(233, 220, 244);
+    height: 40px;
+    padding-top: 14px;
+    color: rgb(156, 28, 28);
+}
+H1 {
+    margin-top: 130px;
+    text-align: center;
+}
+.one{
+    margin-left: 290px;
+    margin-top: 50px
+}
+.two{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+button {
+    height: 40px;
+    border-radius: 10px;
+    background-color: azure;
+}
