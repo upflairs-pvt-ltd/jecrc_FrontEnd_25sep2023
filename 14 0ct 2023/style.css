@@ -1,0 +1,59 @@
+li {
+  display: inline;
+  margin: 23px;
+  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: bold;
+}
+*{
+  margin: 0%;
+}
+ul {
+  margin-left: 680px; 
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+nav{
+  background-color: transparent;
+  height: 40px;
+  padding-top: 32px;
+  /* border-bottom: 2px double red; */
+}
+body {
+  background: url(wp1892104-kimi-no-na-wa-wallpapers\ \(1\).jpg);  
+}
+/* 
+li {
+  list-style: none;
+  float: left;
+} */
+h1 {
+  margin-left: 345px;
+  margin-top: 190px;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+}
+button{
+ margin-top: 60px;
+ height: 50px;
+ width: 130px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: transparent;
+ font-weight: bolder;
+ border: 3px solid black;
+ border-radius: 10px;
+ cursor: pointer;
+
+}
+.b1 {
+  
+  margin-left: 490px;
+
+}
+.b2 {
+  margin-left: 70px;
+}
